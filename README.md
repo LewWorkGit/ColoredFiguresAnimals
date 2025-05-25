@@ -1,2 +1,2 @@
-# ColoredFiguresAnimals
+Затрачено 10 часов.
 
